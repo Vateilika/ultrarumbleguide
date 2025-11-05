@@ -8,6 +8,29 @@ Welcome to the My Hero Ultra Rumble Ultimate Player Guide!
 This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in.
 
 # <a style="color: rgba(175,100,237,255) !important;">NEW PLAYER GUIDE</a><br>
+For this guide only, every term that isn't just normal speech will be linked to its respective article. Words colored violet can be clicked if you wish to know more about that particular thing, but know that ignoring them doesn't mean you're skipping content, so long as you keep reading below.
+
+## Main Menu
+## Battle Royale Gameplay
+### Pre-Lobby: Character Selection
+Before going into a match, you gotta know which character you want to play as. Every new player starts with the following characters: Izuku Midoriya, Ochaco Uraraka, Cementoss, Mt. Lady, Tomura Shigaraki and Dabi. Normally, Mt Lady, Tomura Shigaraki and Dabi are the two characters that are the easiest for people to play with. Mt Lady is decent in her small form at new player levels, but her ability to turn giant stomps other new players with ease. Tomura Shigaraki is a very high damage character, while Dabi uses traps and has quite a defensive gameplay that can be turned into offense. If you have good aim, then Izuku Midoriya will probably work the best for you. Cementoss is usually the hardest choice for beginners even though he's a great character.<br>
+<br>
+You might notice that some characters appear more than once with a different background color, like Red Bakugo and Blue Bakugo. These are the different sets of skills the character can use, for example, yellow Izuku Midoriya shoots, kicks, and can use blackwhip for mobility, while red Izuku Midoriya shoots, stomps the ground with the heel, and creates rock barriers. These colors indicate which role the set of skills is:
+
+
+
+### Pre-Lobby: Matchmaking and Readying Up
+After selecting the desired Battle Royale sub-gamemode (Unranked, Ranked, Solos, CPU Match...) and clicking "Battle!", your game will enter matchmaking, searching for allies to match you with. These teammates will always be real people, and if you've picked Ranked, then the game will *try* to pair you with people close in rank due to the Skill-Based Matchmaking System, though this isn't guaranteed. In Solos and Unranked this system does not exist, so you can get paired with anyone both on the ally and the enemy side.<br>
+<br>
+Once some time has passed (depending on whether you have Crossplay ON/OFF, the time of the day, and the specific gamemode, it can take few seconds or it might take longer.) you will get matched with two people. Normally, you can just click the "Ready!" button on the right to set yourself as "Ready", if all 3 of you are set as "Ready", the game will begin searching for a lobby to play in. However, if your character is the same as one of your teammates, you will have to switch to a different character, as the same character isn't allowed twice (though, they are allowed if the game thinks of them as separate characters, which is the case of All For One and his young counterpart, which are both counted as different characters, such also applies to Izuku Midoriya OFA and Izuku Midoriya. Alternative Battle-Styles are considered the same character as the original counterpart. A good rule of thumb is that if the character's portrait is different, it's a new character, but if only the background color is different, it's not.). A countdown will go down as soon as you're paired with your teammates, so if that countdown reaches zero and two or more people are using the same character, then the player labeled as Member 1 gets to play that character (you can see who is each Member by looking below your username), while Member 2 and Member 3 will switch to the character they've set up as Favorite #1 (which you can do by right-clicking the character icon and setting them as your Number 1 Favorite). If the repeated character is already your Favorite #1, then it will switch to your Favorite #2, and if that's not possible either, then Favorite #3.<br>
+<br>
+After readying up, all you have to do is wait for the game to find a lobby.
+
+
+
+
+
+after which you should click the "Ready!" button on the left to lock your character choice, and if everyone is set as "Ready", then the game will attempt to find a lobby.
 
 ## CHARACTER GUIDES
 Click this image-button to go to the character guide selection!
