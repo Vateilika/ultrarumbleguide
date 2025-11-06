@@ -5,7 +5,7 @@
 # <a style="color: rgba(175,100,237,255) !important;">Ultimate Player Guide to My Hero Ultra Rumble</a><br>
 
 Welcome to the My Hero Ultra Rumble Ultimate Player Guide!
-This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in.
+This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in. When reading this guide, check each header's title to see if you're interested in that specific bit of the guide or if you'd rather scroll to the next.
 
 # <a style="color: rgba(175,100,237,255) !important;">NEW PLAYER GUIDE</a><br>
 For this guide only, every term that isn't just normal speech will be linked to its respective article. Words colored violet can be clicked if you wish to know more about that particular thing, but know that ignoring them doesn't mean you're skipping content, so long as you keep reading below.
@@ -176,11 +176,55 @@ Once some time has passed (depending on whether you have Crossplay ON/OFF, the t
 <br>
 After readying up, all you have to do is wait for the game to find a lobby.
 
+### The Lobby
+Here is where you wait for all players to join and prepare for the match. The lobby's aesthetics change every season, and sometimes it has objects you can play around with. You can attack players or spy their stats by pressing the Interaction Button while upclose. The lobby is where you can socialize and emote with people, having some fun until the match starts. If too much time has passed since the lobby's creation, bots will start to appear, filling the remaining player slots. These bots always wear default costumes and don't have a profile you can check. Bots are most commonly found in Solos, Unranked, Steam lobbies if Crossplay is turned OFF, and if you have been shadowbanned.<br>
+<br>
+
+### Sally and Match Start
+Before starting the match, all players have 15 seconds to choose a landing spot, this screen is referred to as Sally. Normally, people land in the areas they like more or the ones that have more loot or have it more accessible, though those are also often more populated, so it's best if you play a few matches and figure out what landing spots you like the most.<br>
+<br>
+On the map, you will also see a little box icon, which changes locations every match. This icon indicates the presence of a Large Item Box, from which you can loot valuable items, however keep in mind that usually the box's surroundings are very populated, as everyone else wants this loot too, so it's often recommended to at least not spawn directly at the box, but somewhat nearby, since sometimes all players decide to not risk it, which results in nobody being near the box.<br>
+<br>
+Once the landing spot countdown gets to zero, you will see where every enemy has landed, so  you can either plan an escape or an attack. After the sally, you have a 3 seconds countdown to reposition if there are too many enemies nearby.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/sally.png" width="720"/></br>
+</p>
+
+### Gameplay: Health Points, Guard Points and DOWNd State
+Before jumping onto the general gameplay of the Battle Royale mode let's talk about you and the stuff you first see on-screen, as well as a bit of trivia an extra info about them.<br>
+<br>
+First, you will notice your Player Status interface, with a picture of your character, your role, your username, your platform and two more things: Your Health Bar, and your Quick-Hand equipment. Your health is split in two types: Health Points (HP), which is the green bar; and Guard Points (GP), which is the blue bar. Every character has 250 Maximum GP by default, while their HP can range from 225 to 400 depending on the character you've picked. When receiving an attack, you will first take GP damage, and once they take all of your GP, a "Guardbreak" is produced. GP does not give you a defense boost, it simply takes damage in place of HP, however, some skills deal True DMG, which means they can damage HP directly, ignoring GP.<br>
+<br>
+There are a few differences between taking a hit on GP and on HP in terms of how your character is knocked away, which is important when it comes to combos, but that's for later.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/upstate.png" /></br>
+</p>
+
+When your HP hits zero, you will become DOWNd. In this state, you have 400 Down HP regardless of what character you've picked, and are unable to use abilities (unless you're Dabi, as one of his abilities can only be used while DOWNd), you will also crawl very slowly and will be unable to use any items or be healed. In this state, you're nearly eliminated, but there's still hope, as if you manage to survive for 20 seconds in this state uninterrupted (most attacks stop the countdown), you will get up with some HP. Your teammates can also skip this countdown by Helping you or using Revive abilities.<br>
+<br>
+If you lose all of your Down HP, you will be KOd, which means you're dead and will go into Spectator Mode. However, this doesn't mean your role in the match is over, as you can still be resurrected from a KO, but more on that later.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/downedtwice.png" width="200" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/downstate.png" />
+</p>
+<br>
+
+### Gameplay: Character Abilities
+To your right you have your abilities: three aligned in a column plus an extra to the left. The ones in the column are called, from top to bottom, alpha, beta and gamma, while the one more on the left is your Special Action. Remember these terms because you will hear them a lot.<br>
+<br>
+Alpha is the ability at the top, represented with an α letter. In many characters (but not all of them) it's your primary weapon and the one you often can use the most.<br>
+Beta is the ability in the middle of the column, represented by the letter β.<br>
+Gamma is the ability at the bottom of the column, represented by the letter γ.<br>
+The Special Action is a bit different from your other 3 skills. They usually have longer cooldowns and in many cases do pretty unique stuff. Remember how you can have different variations of characters such as Yellow Deku and Red Deku? Well, different variations have different alpha, beta and gamma skills, but the special action is the same across all variations (Again, Deku OFA and Young All For One are an exception because they're considered different characters).<br>
+<br>
+These abilities have charges or ammo, representing how many you can use. However, there are three types of ways of expressing "ammo": Some abilities just tell you how many uses of an ability you have, so if you have 5, you can use it 5 times, however some have percentages instead, this usually happens in skills you can hold for a period of time, so you can choose to spend the whole ability or just a small percentage of it. Other skills like some Shield abilities have huge numbers above 100, representing the shield's health.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/abilities.png" /></br>
+</p>
 
 
-
-
-after which you should click the "Ready!" button on the left to lock your character choice, and if everyone is set as "Ready", then the game will attempt to find a lobby.
+### Gameplay: Quick Equip Bar, Items, Item Boxes and Ability Cards
 
 ## CHARACTER GUIDES
 Click this image-button to go to the character guide selection!
