@@ -306,7 +306,7 @@ Using Ability Cards gives the user a colored shine, so you can sometimes see if 
 # Training Mode
 # Area Control Battle Mode
 # Moving Forward
-
+test
 ## CHARACTER GUIDES
 Click this image-button to go to the character guide selection!
 
