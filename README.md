@@ -229,6 +229,12 @@ Alpha, beta and gamma (although not your special action) can be leveled from Lev
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/A9.png" />
 </p>
 
+Additionally, all characters have basic ground melee attacks and an air melee attack, which can be used at any time if your opponent is close enough.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/gifs/100m-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/gifs/100ma-gif.gif" width="400" />
+</p>
+
 # Gameplay: Inventory and Quick Item Bar
 By pressing the "Item Bag" button (TAB on keyboard), you will open your inventory. Initially, you will have 9 standard slots and 2 ability slots. However you can find Medium and Large item bags around the map or have them dropped by item boxes. Medium bags have 12 standard slots, while Large ones have 15. All items you pick will go to these slots, except for Ability Cards, which by default occupy the two ability slots. If these are occupied, then they will go to your standard slots.  
 <p align="center">
@@ -265,7 +271,7 @@ Items are also spread around the world, so boxes aren't the only source of them.
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su006.webp" width="125"> | **Team GP Recovery Kit** <br>Also known as Blue Teamheals, they restore the whole team's GP. These are obtained through rescuing Blue-Clothed Civilians.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su007.webp" width="125"> | **Full Support Drink** <br>Also known as Teamheals, they restore the whole team's HP and GP. Only one can be stacked per bag slot. These are incredibly powerful, and can easily change the outcome of a battle and even make the difference as to who wins the match. You have to gamble a bit with these, since if you drink them too late, a teammate might be DOWNd before you finish drinking this item, wasting its value. But if you drink it too early, the HP and GP you will regenerate for the team will be little, wasting value, so you gotta know when to use it an  extract the biggest value possible. These can be rarely dropped from Gold Item Boxes or found around the map, but are commonly dropped from Large Item Boxes.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su011.webp" width="125"> | **Level-Up Card** <br>A basic yet valuable item that is used to level up one ability. Upon collecting one, a prompt will appear in your screen, which you can follow to level up the skill you want to strengthen. Level-Up cards emit a small rainbow beam of light upwards, which makes them easier to spot when behind a small obstacle or from the distance. Nine can be stacked per bag slot.|
-| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su015.webp" width="125"> | **Team Enhancement Kit** <br>These are the rarest of all items, they level the alpha, beta and gamma of your whole team by 1, essentially granting 3 level ups to each teammate. These can either be found as a drop from Large Item Boxes (which will drop one), or through rescuing Kota, which will grant you 3 of these Team Enhancement Kits. Only one can be stacked per pag slot. Unlike the rest of the drinks, this can be drunk instantly.|
+| <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su015.webp" width="125"> | **Team Enhancement Kit** <br>These are the rarest of all items, they level the alpha, beta and gamma of your whole team by 1, essentially granting 3 level ups to each teammate. These can either be found as a drop from Large Item Boxes (which will drop one), or through rescuing Kota, which will grant you 3 of these Team Enhancement Kits. Three can be stacked per pag slot. Unlike the rest of the drinks, this can be drunk instantly.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su020.webp" width="125"> | **Revive Card (Incomplete)** <br>These can be obtained from normal or golden Item Boxes, but the main way to obtain them is from rescuing Civilians, as doing so will drop their respective teamheal and an incomplete Revive Card. As the name suggests, these cards are incomplete, you need 3 so that they can combine into one single Full Revive Card, you can tell both apart because incomplete cards are gray, while full cards are pink. They can stack in one slot.|
 | <img src="https://ultrarumble.com/assets/Supply/T_ui_HUD_Su021.webp" width="125"> | **Revive Card (Full)** <br>After collecting 3 incomplete Revive Cards, these will merge into a full Revive Card. To use it you need to collect your teammate's badges, which look like a white coin and can be found at the location where your teammates died. If you don't know where they died, you can just check the minimap, or look around you, you should see their names floating on-screen. After obtaining this card, just use it and the Revive animation will start. Be aware that a huge pink beam will be emitted from your location, so enemies can see where you're reviving your allies, they can also hear the revive noise. Full Revive Cards can be found in Large Item Boxes without the need of collecting incomplete ones.|
 
@@ -290,7 +296,23 @@ Using Ability Cards gives the user a colored shine, so you can sometimes see if 
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/abilitycardauras.png" width="600"/>
 </p>
 
-# Gameplay: Civilians, Stage Destruction, Rescue and Teammate Revival
+# Gameplay: Plus Ultra/Plus Chaos
+At the bottom center of your screen there is the PU (Plus Ultra) bar. This bar fills everytime you lost HP and over time, if you have KOd allies, then the natural filling rate increases. Once your PU hits 100%, you will be able to use it by pressing the indicated input (so long as you're not drinking an item, in which case you have to stop and then press the button).<br>
+<br>
+When using Plus Ultra, your character will perform a short animation which renders the user invincible and pushes close enemies away. Plus Ultra is very useful, as it generates all of your GP, which is also why it's recommended to only use it if you have no GP, unless you have so little HP that the next hit would kill you. Plus Ultra also temporarily increases the level of all your skills to Level PU, which is some sort of Level 10 only reachable through Plus Ultra. Level PU never increases the attack's size, ammo, or range, just damage and reload speed, both of which increase by a noticeable amount, allowing you to deal high damage and get your abilities super fast.<br>
+<br>
+Another useful thing about Plus Ultra is that it can be used even in situations where normally you can't do anything, such as while being attacked with an ability that doesn't let you move. This allows you to cancel an enemy combo or attack mid-way, allowing you to avoid damage that you would have otherwise taken. Plus Ultra lasts for 15 seconds, and once the gauge is depleted, the gauge will go back to filling slowly again.<br>
+<br>
+Plus Chaos is a variation of Plus Ultra used exclusively by villain characters, but the change is purely aesthetic, as Plus Ultra and Plus Chaos are mechanically identical.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/puaura.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/pumeter.png" width="400"/>
+</p>
+
+# Gameplay: Civilians, Kota, Stage Destruction, Teammate Rescue and Teammate Revival
+
+
 # Gameplay: The Poison Mist and the Safe Zone
 # Gameplay: Stage Gimmicks
 # Gameplay: Movement and Agility
