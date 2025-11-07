@@ -311,13 +311,38 @@ Plus Chaos is a variation of Plus Ultra used exclusively by villain characters, 
 </p>
 
 # Gameplay: Civilians, Kota, Stage Destruction and Teammate Revival
-Around the map you will Green-Clothed and Blue-Clothed Civilians. By interacting with them you can rescue them, which will make them drop a Team HP Recovery Kit (if the civilian is wearing green) or a Team GP Recovery Kit (if the civilian is wearing blue), they will also drop an Incomplete Revive Card. Players often rescue civilians to get Full Revive Cards and Team Recovery Kits in case a future fight goes rough, in which case a teammate can try to flee the scene and drink one of them to recover their own and their team's health. If a teammate dies, then they pick their badge and go somewhere else (if possible) to revive them.
+Around the map you will Green-Shirt and Blue-Shirt Civilians. By interacting with them you can rescue them, which will make them drop a Team HP Recovery Kit (if the civilian is wearing green) or a Team GP Recovery Kit (if the civilian is wearing blue), they will also drop an Incomplete Revive Card. Players often rescue civilians to get Full Revive Cards and Team Recovery Kits in case a future fight goes rough, in which case a teammate can try to flee the scene and drink one of them to recover their own and their team's health. If a teammate dies, then they pick their badge and go somewhere else (if possible) to revive them.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/greenciv.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/blueciv.png" width="400"/>
+</p>
 
 Aside from small destructible objects that have no special effects, we also have Destructible Buildings (USJ Map only) and Nezu Boxes. Destroying these have a probability of freeing a Civilian from inside, which can either be green or blue.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/buildingdestruction.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/nezubox.png" width="400"/>
+</p>
 
-Reviving a teammate is simple, you require of two things: A Full Revive Card (the pink ones) and your teammate(s) badges. The former can be obtained through Large Item Boxes, through Momo Yaoyorozu's Special Action, or by collecting 3 Incomplete Revive Cards (the gray ones), which you can obtain from rescuing civilians or from Normal and Gold Item Boxes (alternatively you can get both complete and incomplete revive cards from enemies carrying them). As for the teammate badges, they are left at the spot where they have died, which is signaled both on the minimap and on screen, as you will see their name and the icon of their character. Be aware that sometim
+Reviving a teammate is simple, you require of two things: A Full Revive Card (the pink ones) and your teammate(s) badges. The former can be obtained through Large Item Boxes, through Momo Yaoyorozu's Special Action, or by collecting 3 Incomplete Revive Cards (the gray ones), which you can obtain from rescuing civilians or from Normal and Gold Item Boxes (alternatively you can get both complete and incomplete revive cards from enemies carrying them). As for the teammate badges, they are left at the spot where they have died, which is signaled both on the minimap and on screen, as you will see their name and the icon of their character. Be aware that the badge isn't an item you store in your inventory, and if one of your teammates is alive and they pick it, it counts as if you too have it. To know whether or not you have their badge look for a checkmark near their name. It's worth noting that you only need 1 Full Revive Card to resurrect your teammates, even if you gotta resurrect two.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/revive-gif.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/badge.png" width="400"/>
+</p>
+
+Around the map there's also a 3rd type of Civilian: Kota<br>
+There's only one Kota per match, and he spawns in one of his designated spawn points at random, sometimes easy to spot, sometimes kinda hidden (like inside bushes). After rescuing him you will obtain 3 Team Enhancement Kits, allowing your whole team to get +3 levels on all 3 skills, which can quickly change your performance in a match. Finding Kota is very difficult, as you'd have to scan all of the locations he can spawn in until finding the right one, and that's assuming another team hasn't found him before, in which case you will hear Present Mic (the announcer) say that he has been found.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/kota.png" width="400"/>
+</p>
 
 # Gameplay: The Poison Mist and the Safe Zone
+If you've played battle royales before, you might be familiar with the concept of the "storm" (called Poison Mist here), which is the damaging area that envelops the world. At the beginning of the match the Poison Mist will be outside the map, but once some time passes, it will start to engulf the map's borders. On the minimap you'll be able to see the area it's covering, the area it will cover, and where the safe zone will move. The purple ring indicates the Poison Mist's borders, while the cyan circle indicates the area that will be safe after the Poison Mist moves. Over time, the safe zone will get smaller and smaller, or even move to different locations in an attempt to make it easier for players to kill each other. If the match lasts for too long and reaches the 16 minutes and 30 seconds mark, the safe zone will close and the whole map will be engulfed in Poison Mist, point at which you will either die to an enemy attack, or to the Poison Mist itself.<br>
+<br>
+The mist does little damage at the beginning, taking 10 HP per second, which means that on some characters you can survive inside the Poison Mist for a long period of time, even more if you have healing items, but be careful, the mist only consumes HP, not GP, so GP won't help you. The Poison Mist grows stronger as time passes, taking 155 HP, then 20 HP, eventually 30 HP and so until taking 40 HP per second when the Safe Zone closes, at which point you can only survive if  you're quick on using Large HP Recovery Drinks, as small ones can't keep up with the damage. If your teammate dies inside the Poison Mist, you should only try to resurrect them if you're high HP, have quite a few HP Recovery drinks, and the teammate is relatively close.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/poisonmist-gif.gif" width="400" />
+</p>
+
 # Gameplay: Stage Gimmicks
 # Gameplay: Movement and Agility
 # Gameplay: Useful Shortcuts and Tips to Win
