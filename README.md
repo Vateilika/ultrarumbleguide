@@ -323,10 +323,17 @@ Aside from small destructible objects that have no special effects, we also have
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/nezubox.png" width="400"/>
 </p>
 
-Reviving a teammate is simple, you require of two things: A Full Revive Card (the pink ones) and your teammate(s) badges. The former can be obtained through Large Item Boxes, through Momo Yaoyorozu's Special Action, or by collecting 3 Incomplete Revive Cards (the gray ones), which you can obtain from rescuing civilians or from Normal and Gold Item Boxes (alternatively you can get both complete and incomplete revive cards from enemies carrying them). As for the teammate badges, they are left at the spot where they have died, which is signaled both on the minimap and on screen, as you will see their name and the icon of their character. Be aware that the badge isn't an item you store in your inventory, and if one of your teammates is alive and they pick it, it counts as if you too have it. To know whether or not you have their badge look for a checkmark near their name. It's worth noting that you only need 1 Full Revive Card to resurrect your teammates, even if you gotta resurrect two.
+Reviving a teammate is simple, you require of two things: A Full Revive Card (the pink ones) and your teammate(s) badges. The former can be obtained through Large Item Boxes, through Momo Yaoyorozu's Special Action, or by collecting 3 Incomplete Revive Cards (the gray ones), which you can obtain from rescuing civilians or from Normal and Gold Item Boxes (alternatively you can get both complete and incomplete revive cards from enemies carrying them).<br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/revive-gif.gif" width="400" />
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/badge.png" width="400"/>
+</p>
+<br>
+
+As for the teammate badges, they are left at the spot where they have died, which is signaled both on the minimap and on screen, as you will see their name and the icon of their character. Be aware that the badge isn't an item you store in your inventory, and if one of your teammates is alive and they pick it, it counts as if you too have it. To know whether or not you have their badge look for a checkmark near their name. It's worth noting that you only need 1 Full Revive Card to resurrect your teammates, even if you gotta resurrect two.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/badgeno.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/badgeyes.png" width="400"/>
 </p>
 
 Around the map there's also a 3rd type of Civilian: Kota<br>
@@ -344,7 +351,22 @@ The mist does little damage at the beginning, taking 10 HP per second, which mea
 </p>
 
 # Gameplay: Stage Gimmicks
+When traversing the map you will notice the presence of Jump Pads. These make you jump high in the direction their trail points to, and they're useful for mobility, especially for characters that lack mobility options. Touching one while in a skill animation won't make you jump until the animation is over, and if you try to use one while DOWNd, you will get pushed away.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/jumppad.png" width="400"/>
+</p>
+
 # Gameplay: Movement and Agility
+One of the biggest differences between a noob and a standard player is how they move, and that's because they move very differently. In My Hero Ultra Rumble you can walk, run, dash, roll, jump, climb and do wall-shuffling. Walking consists of simply pressing the forward input, this is slow and normally you don't want to do this, because it's slower, yet many new players do and that renders them vulnerable, in this game you want to be quick and evasive, so learn to move quick. The first step is to stop Walking and begin Running; by pressing the dash input you will perform a tiny dash and start running, this is what you always want to do, running keeps you faster and allows you to get to places quicker, it might sound obvious, but believe me that beginner lobbies are full of people that walk a lot and don't run much.
+
+Jumping by itself isn't super special, as your jump height is often low, but some characters like Tsuyu Asui (Froppy) and All For One have higher than usual jumps, which can benefit them. However, jumping is much more useful when using beam attacks that don't lock you in place, like Yellow Deku's alpha, Red Deku's alpha, Red Bakugo's alpha, and overall every shooting skill that lets you move while using it. It's better to use these skills while jumping to the sides to make yourself harder to hit while still attacking.
+
+Rolling (Also called Dodging) is an incredibly valuable skill to master, and that will be explained more in-depth in its own section, but to put it simply, the act of rolling makes you invulnerable for a split second, which if timed correctly, can let you ignore the damage of enemy abilities or even their effects. For example, All For One's gamma skill allows him to warp everyone inside of its range to his position, but if you roll at the right moment, you can avoid being warped to his location.
+
+Crouching is another type of movement, which allows you to move without making any noise, which can be occasionally useful to ambush people and sometimes to change your position behind an obstacle without being heard by the enemy if they're looking for you.
+
+Climbing is your way to get on top of high places when you don't have mobility skills or jump pads. It's pretty slow and leaves you very vulnerable, so you should never climb while being chased unless it's a short fence or any obstacles that are barely tall enough to be climbable. Whenever possible, you should do Wall-Shuffling instead, also known as Wall-Jumping in other games, which consists of jumping from one wall to another and repeat this until you reach the top, keeps you in the move, which makes it better than climbing.
+
 # Gameplay: Useful Shortcuts and Tips to Win
 # Ranked: Ranks and Gaining Points
 # Currencies and Their Usage
