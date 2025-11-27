@@ -166,8 +166,8 @@ Support Characters focus on interrupting the enemy with abilities that easily st
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
 </p>
 
-Technical Characters focus on unusual or/and miscelaneous abilities, such as traps (Dabi), copying abilities (Himiko Toga, All For One and Neito Monoma), or other unique abilities like Mirio Togata's counter or Neito Monoma's metal form. Carrying characters with this role gives the whole party a reload boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Purple" or "Tech", after which follows the character's name.
-
+Technical Characters focus on unusual or/and miscelaneous abilities, such as traps (Dabi), copying abilities (Himiko Toga, All For One and Neito Monoma), or other unique abilities like Mirio Togata's counter or Neito Monoma's metal form. Carrying characters with this role gives the whole party a reload boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Purple" or "Tech", after which follows the character's name.<br>
+<br>
 # Pre-Lobby: Matchmaking and Readying Up
 After selecting the desired Battle Royale sub-gamemode (Unranked, Ranked, Solos, CPU Match...) and clicking "Battle!", your game will enter matchmaking, searching for allies to match you with. These teammates will always be real people, and if you've picked Ranked, then the game will *try* to pair you with people close in rank due to the Skill-Based Matchmaking System, though this isn't guaranteed. In Solos and Unranked this system does not exist, so you can get paired with anyone both on the ally and the enemy side.<br>
 <br>
@@ -286,7 +286,7 @@ Another type of items are Ability Cards, these can appear red, yellow, blue, gre
 The other usage of Ability Cards is to trigger special buffs. When you have an Ability Card that doesn't match your class, you have two options: Either you give it to your teammate if it matches their class, or you keep it to yourself. If you do the latter, you can use them in battle by pressing the buttons indicated in the Quick Item bar. Each card grants different buffs based on which of the 5 classes they are from:
 
 <a style="color: rgba(255,100,100,255) !important;">**Strike Ability Card:**</a> Increases the user's damage by 10%.<br>
-<a style="color: yellow !important;">**Assault Ability Card:**</a> Increases the user's defense by 20$.<br>
+<a style="color: yellow !important;">**Assault Ability Card:**</a> Increases the user's defense by 20%.<br>
 <a style="color: cyan !important;">**Rapid Ability Card:**</a> Increases the user's movement and attack speed by 10% and grants them the ability to wallrun.<br>
 <a style="color: lime !important;">**Support Ability Card:**</a> Grants the user a healing field that heals them and allies inside the field. The field moves with you.<br>
 <a style="color: rgba(175,100,237,255) !important;">**Technical Ability Card:**</a> Increases reload speed by 50%.<br>
