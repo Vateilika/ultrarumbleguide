@@ -8,28 +8,41 @@ In this sub-guide you'll learn about this game's ranks and player competitive fe
 # Ranked Matches and Ranks
 When playing a Ranked Match for the first time, you will be paired with people that supposedly are close to your skill level thanks to the Skill-Based Matchmaking. Once the actual match starts, you will have to do your best to display a good performance and earn rank points. Here's a summary of the things that give or take points and how many:
 
-- Team Rank: This indicates which place you ended up in a match. The closest you are to 1st Place, the more points you will get. 1st Place gives 1000 pts, 2nd Place gives 500 pts, for 3rd Place it's 400, 
+- Team Rank: This indicates which place you ended up in a match. The closest you are to 1st Place, the more points you will get. 1st Place gives 1000 pts, 2nd Place gives 500 pts, for 3rd Place it's 400.
+   
 - Total Damage Dealt: This one is pretty self-explanatory, the more damage you deal, the more points you obtain. The maximum amount of points you can get from this stat is 300, which is attained by dealing 3000 DMG throughout the match. Even if you deal more damage, you won't get more points it.
+  
 - Total KOs Dealt: In this game, a KO is defined by which player DOWNs an enemy. If Player A does most of the damage to the enemy and Player B DOWNs the enemy by giving the final blow, the KO will go to Player B (so long as the DOWNd enemy gets KOd afterwards, whoever KOs the DOWNd enemy is irrelevant). So, this stat basically defines how many people were KOd after you DOWNed them. Each KO grants 125 pts, so 2 KOs give you 250, and 4 KOs give you 500. Do not worry too much about your ally giving the last hit and "stealing" your KO, because those who contributed to the kill will still get a "KO Assist".
+  
 - KO Assists: If you've dealt damage to an enemy but it was your teammate who gave the final hit and DOWNd them, you won't get a KO, but you will get a "KO Assist". These assists give 125 pts, just like regular KOs, so don't worry if your teammate suddenly deals the final flow and "steals" your kill, because you will still get your 125 pts. If the last hit was delivered by an enemy team, you will not get the assist.
-- Total Team KOs
-- Bonus For Defeating A Full Team Battle
-- Bonus for Defeating A Higher-Ranked Opponent
-- Ally Support Pts
-- Entry Cost
-
-
+  
+- Total Team KOs: The more people you and your teammates KO, the higher will be your point gain from this stat. For every KO, 25 pts will be added.
+  
+- Bonus For Defeating A Full Team Battle: There are three ways of playing ranked: Solo Q (which means you simply click the Battle! button and get paired with strangers), Duo Q (When you play with a friend but your third teammate is still a stranger) and Full Team (when the whole party are friends you joined/they joined your party). Killing a team of 3 friends (a Full Team) gives extra points, even if you only kill one of the enemy teammates.
+  
+- Bonus for Defeating A Higher-Ranked Opponent: Some people you will face might be labeled as "Higher-Ranked", people in a rank above you. Defeating them will also grant you points.
+  
+- Ally Support Pts: Supporting gets its own point category, which is key for Support Characters but also useful for non-support ones. You can get Ally Support Points from reviving teammates (via revive cards, revive special actions, helping them get up, etc...), via drinking teamheals, and via consuming Team Enhancement Kits. From this you can usually get between 200 to 600 pts depending on how much you supported your team.
+  
+- Entry Cost: This stat is your enemy, unlike the others, this one actually takes points away. In Beginner Rank the rank cost is zero, but the moment you step into ranks beyond you will start getting an Entry Cost that will take ranked points from you. The goal is to get enough points from the other stats to surpass the entry cost. Additionally, owning the latest two characters and alternative battle styles will each reduce the Entry Cost by 100 (if it's the latest character and/or alternative battle style) or 50 (if it's the 2nd latest character and/or alternative battle style). This Entry Cost discount does not apply from Expert I onwards.
 
 
 There are 5 main ranks in My Hero Ultra Rumble: Beginner, Amateur, Pro, Expert and Ace. Every new player starts at Beginner Rank, which is split into 3 sub-ranks: Beginner I, Beginner II and Beginner III.<br>
 
-Reaching Beginner II requires 2,500 pts
+Reaching Beginner II requires 1,000 pts, while reaching Beginner III requires 2,500 pts afterwards. Once you leave Beginner III and reach the next rank, you won't be able to be demoted back to Beginner, even after a seasonal reset.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner1.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner2.png" width="200"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/beginner3.png" width="200"/>
 </p>
 
+To leave Beginner III you need to get 4,500 pts after reaching said rank. Once you do that, you will reach Amateur I. Unlike Beginner, Amateur has 4 sub-ranks. You reach
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur1.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur2.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur3.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/amateur4.png" width="200"/>
+</p>
 
 
 Before going into a match, you gotta know which character you want to play as. Every new player starts with the following characters:<br>
