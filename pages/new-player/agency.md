@@ -2,32 +2,64 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
-# <a style="color: rgba(175,100,237,255) !important;">RANKS AND RANKINGS</a><br>
-In this sub-guide you'll learn about this game's ranks and player competitive features. To read about agencies and agency rankings click this sentence!
+# <a style="color: rgba(175,100,237,255) !important;">AGENCIES AND LEAGUES</a><br>
+In this sub-guide you'll learn about the agency system and agency leagues and rankings. To read about ranked points and individual player rankings click this sentence!
 
-# Ranked Matches and Ranks
-When playing a Ranked Match for the first time, you will be paired with people that supposedly are close to your skill level thanks to the Skill-Based Matchmaking. Once the actual match starts, you will have to do your best to display a good performance and earn rank points. Here's a summary of the things that give or take points and how many:
+# Agencies: Intro
+Agencies are this game's equivalent of clans/guilds. The utility of an agency is that of boosting the amount of gold and experience you get, as well as giving you extra tickets if your agency qualifies high enough in the rankings, or even skins in agency events. Different agencies have different expectations, some might be half dead, some might just be "do what you want", and others might be more competitive and set seasonal point quota to aim for higher placements in the agency rankings.
 
-- Team Rank: This indicates which place you ended up in a match. The closest you are to 1st Place, the more points you will get. 1st Place gives 1000 pts, 2nd Place gives 500 pts, for 3rd Place it's 400.
-   
-- Total Damage Dealt: This one is pretty self-explanatory, the more damage you deal, the more points you obtain. The maximum amount of points you can get from this stat is 300, which is attained by dealing 3000 DMG throughout the match. Even if you deal more damage, you won't get more points it.
-  
-- Total KOs Dealt: In this game, a KO is defined by which player DOWNs an enemy. If Player A does most of the damage to the enemy and Player B DOWNs the enemy by giving the final blow, the KO will go to Player B (so long as the DOWNd enemy gets KOd afterwards, whoever KOs the DOWNd enemy is irrelevant). So, this stat basically defines how many people were KOd after you DOWNed them. Each KO grants 125 pts, so 2 KOs give you 250, and 4 KOs give you 500. Do not worry too much about your ally giving the last hit and "stealing" your KO, because those who contributed to the kill will still get a "KO Assist".
-  
-- KO Assists: If you've dealt damage to an enemy but it was your teammate who gave the final hit and DOWNd them, you won't get a KO, but you will get a "KO Assist". These assists give 125 pts, just like regular KOs, so don't worry if your teammate suddenly deals the final flow and "steals" your kill, because you will still get your 125 pts. If the last hit was delivered by an enemy team, you will not get the assist.
-  
-- Total Team KOs: The more people you and your teammates KO, the higher will be your point gain from this stat. For every KO, 25 pts will be added.
-  
-- Bonus For Defeating A Full Team Battle: There are three ways of playing ranked: Solo Q (which means you simply click the Battle! button and get paired with strangers), Duo Q (When you play with a friend but your third teammate is still a stranger) and Full Team (when the whole party are friends you joined/they joined your party). Killing a team of 3 friends (a Full Team) gives extra points, even if you only kill one of the enemy teammates.
-  
-- Bonus for Defeating A Higher-Ranked Opponent: Some people you will face might be labeled as "Higher-Ranked", people in a rank above you. Defeating them will also grant you points.
-  
-- Ally Support Pts: Supporting gets its own point category, which is key for Support Characters but also useful for non-support ones. You can get Ally Support Points from reviving teammates (via revive cards, revive special actions, helping them get up, etc...), via drinking teamheals, and via consuming Team Enhancement Kits. From this you can usually get between 200 to 600 pts depending on how much you supported your team.
-  
-- Entry Cost: This stat is your enemy, unlike the others, this one actually takes points away. In Beginner Rank the rank cost is zero, but the moment you step into ranks beyond you will start getting an Entry Cost that will take ranked points from you. The goal is to get enough points from the other stats to surpass the entry cost. Additionally, owning the latest two characters and alternative battle styles will each reduce the Entry Cost by 100 (if it's the latest character and/or alternative battle style) or 50 (if it's the 2nd latest character and/or alternative battle style). This Entry Cost discount does not apply from Expert I onwards.
+In terms of interaction between agency members, it can depend. While the game offers a text chat inside the agency screen, higher ranked agencies usually have a discord server for this, which can also be used to meet up in-game and play with other agency members. A popular trend among agencies (mainly higher ranked ones) is to all share a specific symbol or acronym at the beginning of their name, such as "IRS Gojo", "x Gojo", "ZEN Gojo" or "CSEN Gojo".
 
+To access the Agency Screen, simply click the "Menu" button on the bottom right of the screen and then the image button that says "Agency".
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rankingtuto1.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto1.png" width="400"/>
+</p>
 
-There are 5 main ranks in My Hero Ultra Rumble: Beginner, Amateur, Pro, Expert and Ace. Every new player starts at Beginner Rank, which is split into 3 sub-ranks: Beginner I, Beginner II and Beginner III.<br>
+# Agencies: Joining
+When opening the agency screen, you will be greeted by a list of agencies. You can either choose to join one of them, or you can choose to refresh for different options, or you can also use the "Filter" option on the top left to find one that fits your criteria. Some agencies are set as "Join", which means you can simply join them with no issues, however, others are set to "Apply", which means that you can't join them instantly, instead, you will have to wait for an agency member with enough permissions to accept you.
+
+If you want to join an agency you've found out about outside the game or in another player's profile, you can just go to the "Filter" option and type in the agency's ID code to find the exact agency.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto2.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto3.png" width="400"/>
+</p>
+
+# Agencies: Creation
+Another option you have is to create your very own agency by going to the "Create Agency" tab on the top right of the agency screen. Creating an agency is completly free, you don't need wealth, fame or power, just sheer faith in what you're doing. When creating your agency, you will be able to give it a name, a description, set up a few details about it, and choose an emblem for it. The name you choose might not be allowed if it contains a banned word, a common issue is "ho", any word containing "ho" is banned, sad for those in christmas season.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto4.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/agencytuto5.png" width="400"/>
+</p>
+
+# Agencies: The Gameplay
+Agencies have 4 tabs: Main, Member, Records and Bulletin Board.
+
+## Main
+Aside from the main info like the agency's leader and agency description, you will find a few features. The first feature is License EXP Boost, a button only agency leaders and co-leaders can press that for a limited amount of time will trigger a License EXP Boost. You should try to play as much as possible while this boost is active to level up your license as fast as possible.
+
+The second feature is white "Menu" button on the right, where you can invite people to the agency, leave, see the amount of people that applied to join the agency (and accept/decline them if you're a leader/co-leader), or change the agency's information if your authority is high enough.
+
+The third feature are the three donation points: Aid Center, Gym and Agency. You can level these up by using Agency Points, which are blue orbs with the letter over them.<br><br>
+Leveling Aid Center will increase the amount of Contribution Points your agency gains, which are basically the Agency equivalent of ranked points.
+Leveling Gym will increase the amount of Player EXP you gain. Not the most useful thing.
+Leveling Agency will increase the amount of Gold you gain, not really a resource you will often find yourself lacking if at all.
+
+Leveling these three donation points is important to raise the overall Agency Level, which will allow the agency to sustain more members, as new agencies can only support 10 players, while max level agencies can support up to 40 players.
+
+On the left side you might also see stuff concerning leagues, but that's for later in this sub-guide.
+
+## Member
+In the member tab you can see every player currently in the agency and whether or not they're online. You can also see their Contribution Points and even send them likes. The player with a golden flag is the leader, while silver flags represent co-leaders.
+
+Leaders from agencies tha tcare about their ranking often use the "Sort" button on the upper left side to sort members by Most or Least Contribution Points, so remember to use this if you're the leader of an agency aiming for the top.
+
+## Records
+Here you will see general notifications such as an agency member's winstreak or other changes to the agency.
+
+## Bulletin Board
+The agency's chat, that's really it.
+
 
 Reaching Beginner II requires 1,000 pts, while reaching Beginner III requires you to reach the 2,500 pts mark. Once you leave Beginner III and reach the next rank, you won't be able to be demoted back to Beginner, even after a seasonal reset.
 <p align="center">
