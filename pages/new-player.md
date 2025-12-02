@@ -406,13 +406,11 @@ If you use the Place Marker button while looking at an item, you will pin it for
 # Gameplay Conclusion
 Overall, whenever you start a match, make sure to stay close to your team, gather healing items, level your skills and fight using your brain. Don't try to fight a team alone, because those who just mindlessly charge at fights alone are prone to die, and that's not good!
 
-# Ranked: Ranks and Gaining Points
 # Currencies and Their Usage
 # Missions and The Research Notebook
 # The Hero License and the Special License
 # The Gacha: Unlocking New Characters, Costumes and Emotes
 # Events
-# Agencies
 # Training Mode
 # Area Control Battle Mode
 # Moving Forward
