@@ -90,4 +90,59 @@ Keep in mind that you can only equip General Emblems or Character Specific emble
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto11.png" width="400"/>
 </p>
 
+# Customization: My Room
+The My Room feature allows you to change your Pre-Lobby background and add characters to it to make your Pre-Lobby more lively. There are two ways to access the My Room customization. The easiest is by just pressing "My Room Settings" in the Play screen. The second is by moving to the Customize Tab and press My Room. 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto2.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto18.png" width="400"/>
+</p>
+
+You can choose between 3 My Room backgrounds
+- Briefing Room: The default background that changes with every season.
+- U.A. High School (Ruins): A background based on the Coffin in the Sky, available to use from the very beginning.
+- League of Villains' Bar: A background you can unlock by logging into the game 10 days. Claim it from your "Special" missions.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rm123.png" width="1000"/>
+</p>
+
+Excluding Briefing Room, you can set up to 4 characters in these backgrounds and rotate them to look in whichever direction you wish. By default, these characters will have the costume and emotes you have equipped on them, but you can press the Character Settings button to change their costume and emotes, this will not affect your actual builds, only the My Room characters. You can als otake away their emotes if their noise is bothering you.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto19.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto20.png" width="400"/>
+</p>
+
+You can also remove them by clicking them on the right side of the My Room Character Selection.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto21.png" width="400"/>
+</p>
+
 # Customization: My Banner
+The "My Banner" feature allows you to setup an "animated" image in your profile, as well as broadcast it to the rest of the world, showing up in the top left corner of the Play screen.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto12.png" width="400"/>
+</p>
+
+To customize this feature, go to the Customize Tab and press My Banner.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto3.png" width="400"/>
+</p>
+
+In the "My Banner" screen you will see 3 identical slots. You can make a different banner in each of these. If you scroll down, you will see there's a 4th slot you can unlock paying gold, which you can do if you find yourself in need for it. When clicking one of these slots, you will be able to choose: 
+
+- Edit: To edit the banner.
+- Reset: To reset it to the default state.
+- Broadcast: To show it to the whole world by making it appear on the top left of the Play screen of other people.
+- Set as Profile: To put it in your profile.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto13.png" width="400"/>
+</p>
+
+A banner is made up of 3 parts: The Background, the Effects and the Messages.
+The background is simply the image that will appear on the banner. The effects are special details added to it, like bubbles that float upwards or a film frame. The message is a word, phrase or sentence you put. You can't write the message itself, only pick one of the options you have available, but you can change its position and language.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto14.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto15.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto16.png" width="300"/>
+</p>
