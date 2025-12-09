@@ -30,6 +30,24 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 <p align="center">
     <a href="https://ultrarumble.com/guide/characters" target="_blank"><img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="100%" /></a>
 </p>
+<p align="center">
+    <a href="https://ultrarumble.com/guide/character/10910" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png" width="15%" />
+    <a href="https://ultrarumble.com/guide/characters" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-guides.png" width="15%" />
+    <a href="https://ultrarumble.com/guide/character/10911" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png" width="15%" />
+</p>
+
+# <span style="color: lightred !important;">General Player Guide</span>
+*Click this image-button to go to the general player guide!*
+
+<p align="center">
+    <a href="https://ultrarumble.com/guide/characters" target="_blank"><img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/guide-characters.jpg" width="100%" /></a>
+</p>
+<p align="center">
+    <a href="https://ultrarumble.com/guide/character/10910" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-general.png" width="15%" />
+    <a href="https://ultrarumble.com/guide/characters" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png" width="15%" />
+    <a href="https://ultrarumble.com/guide/character/10911" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png" width="15%" />
+    <a href="https://ultrarumble.com/guide/character/10911" target="_blank"> <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-gamesense.png" width="15%" />
+</p>
 
 ### Guide
 - https://ultrarumble.com/guide
