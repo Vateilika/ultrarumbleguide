@@ -2,7 +2,7 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
-# <a style="color: rgba(175,100,237,255) !important;">CUSTOMIZATION: Skins, Emotes, My Room, My Banner and Nameplates!</a><br>
+# <a style="color: lightblue !important;">CUSTOMIZATION: Skins, Emotes, My Room, My Banner and Nameplates!</a><br>
 In this sub-guide you'll learn about customization! This includes changing the skin/costume of your character, their emotes and their voicelines, as well as setting up My Room, My Banner, and choosing a different nameplate!
 
 # Customization: Customize Character
@@ -146,3 +146,72 @@ The background is simply the image that will appear on the banner. The effects a
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto15.png" width="300"/>
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto16.png" width="300"/>
 </p>
+<br>
+
+# Customization: Nameplates
+Unlike the other customization options, nameplates aren't found in the Customization Screen, but rather in your profile, which you access by clicking the "Menu" button on the bottom right corner in the Play screen and then going to the image-button that says "Profile".
+
+To change your nameplate, go to "Edit Profile" and press "Change Nameplate", this will show you the list of nameplates you currently own, choose whichever you like most!
+
+You can unlock more by reaching Expert and Ace, reaching level 55 in the Hero/Pro Licenses, from events, from missions, and from buying them in the Standard Shop or by getting some characters more than once.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto22.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto23.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/customizetuto24.png" width="300"/>
+</p>
+
+<hr style="height: 10px; background-color: white; border: none;">
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
