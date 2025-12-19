@@ -2,172 +2,27 @@
     <img style="border-radius: 15px;" src="https://ultrarumble.com/assets/guide/newplayerguide.jpg" width="100%"/>
 </p>
 
-# <a style="color: rgba(175,100,237,255) !important;">BATTLE ROYALE GAMEPLAY GUIDE</a><br>
-In this sub-guide you'll learn the basics for the classic Battle Royale mode! Feel free to skip some bits if you're looking for something in particular!
+# <a style="color: lightblue !important;">BATTLE ROYALE MODE AND GENERAL GAMEPLAY</a><br>
+In this sub-guide you'll learn about My Hero Ultra Rumble's main gamemode: The Battle Royale, along with the gameplay it entails!
 
 # Pre-Lobby: Character Selection
-Before going into a match, you gotta know which character you want to play as. Every new player starts with the following characters:<br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/cementoss_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mtlady_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png" />
-</p>
-<br>
-Normally, Mt Lady, Red Tomura Shigaraki and Purple Dabi are the three characters that are the easiest for people to play with. Mt Lady is decent in her small form at new player levels, but her ability to turn giant stomps other new players with ease. Tomura Shigaraki is a very high damage character, while Dabi uses traps and has quite a defensive gameplay that can be turned into offense. If you have good aim, then Yellow Izuku Midoriya will probably work the best for you. Cementoss is usually the hardest choice for beginners even though he's a great character.<br>
-<br>
-By playing matches and completing missions, you will be able to level up your Hero License and your Special License. The latter unlocks 6 more characters, these being:<br><br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
-</p>
-<br>
+Before going into a match, you might want to know stuff about unlocking characters and how to play characters you don't own for free, as well as why each character has a different background color. To learn about all this you can check these two Character Sub-Guides:
 
-With Character Tickets, which you obtain from leveling up the Special License, the Research Notebook, and from some events; you can also unlock any character of your choice that's on this list:
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/momo_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/ibara_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
-</p>
-<br>
+<div class="guides-menu-row" align="center">
+    <div class="guide-icon">
+        <a href="https://ultrarumble.com/guide/unlocks" target="_blank">
+            <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png"/>
+        </a>
+    </div>
+    <div class="guide-icon">
+        <a href="https://ultrarumble.com/guide/classes" target="_blank">
+            <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png"/>
+        </a>
+    </div>
+</div>
 
-For the last batch of characters, you can obtain them through Gacha Banners, make sure to look up exactly which character you can obtain in a specific banner. These characters are:
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dekuofa_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_support.png" />
-</p>
-<br>
+Little tip: You can play as characters you don't own in actual matches by using Rental Tickets, which are used by just playing the character you want to play. This only works on Original Battle Styles though, so if you see the same character appearing twice or thrice, you will only be able to play as the first one.
 
-You might notice that some characters appear more than once with a different background color, like Red Bakugo and Blue Bakugo. These are the different sets of skills the character can use, for example, yellow Izuku Midoriya shoots, kicks, and can use blackwhip for mobility, while red Izuku Midoriya shoots, stomps the ground with the heel, and creates rock barriers. These colors indicate which role the set of skills is, which also indicates (or attempts to, since many characters fit other roles) what they specialize in:
-
-## <a style="color: rgba(255,100,100,255) !important;">**Strike - The Damage and Aggression Class**</a><br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/strikebig.png" /></br>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/tamaki_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shinso_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mic_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_strike.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_strike.png" />
-</p>
-Strike Characters focus on damage and/or aggressive playstyles. Characters like Present Mic, Red Itsuka Kendo, Red Denki Kaminari, Red Shoto Todoroki and Red Tomura Shigaraki can deal outstanding amouns of damage in little time. Carrying characters with this role gives the whole party a damage boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Red" or "Strike", after which follows the character's name.
-
-## <a style="color: yellow !important;">**Assault - The Defense, Close-Combat and Heavyweight Class**</a><br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/assaultbig.png" /></br>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/deku_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kirishima_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kendo_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/endeavor_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mtlady_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_assault.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/yafo_assault.png" />
-</p>
-Assault Characters can focus on defense and close-combat (like Yellow Itsuka Kendo and Yellow Eijiro Kirishima), have massive attacks that cover a wide area and are often slightly slow to execute (Yellow Endeavor, Young All For One, Mt Lady) or remain in a more neutral ground (Yellow Deku and Yellow Tomura Shigaraki). Carrying characters with this role gives the whole party a defense boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Yellow" or "Assault", after which follows the character's name.
-
-## <a style="color: cyan !important;">**Rapid - The Fast and Agile Class**</a><br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/rapidbig.png" /></br>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dekuofa_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/bakugo_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/uraraka_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/iida_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/froppy_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/allmight_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/hawks_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_rapid.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/twice_rapid.png" />
-</p>
-Rapid Characters focus on agility and/or speed, they're often highly mobile and slippery characters that usually have an easy time moving from one place to another, and sometimes even be difficult to hit due to their agility or staying in the air for long. These character's are usually characterized by having the lowest HP on the game, which makes them more fragile than the rest of the cast in that regard. Carrying characters with this role gives the whole party a speed boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Blue" or "Rapid", after which follows the character's name.
-
-## <a style="color: lime !important;">**Support - The Protection and Revival Class**</a><br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/supportbig.png" /></br>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/momo_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/ibara_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/cementoss_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mrcompress_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kurogiri_support.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/overhaul_support.png" />
-</p>
-Support Characters focus on interrupting the enemy with abilities that easily stop their movement and/or abilities to block exits, as well as often possessing other helpful skills like healing (Overhaul) or resurrection (Ibara, Cementoss) skills. Keep in mind that even though these characters have support characteristics, they very well work as competent damage dealers, sometimes even performing better than characters in the Strike Class. Carrying characters with this role gives the whole party a healing boost when using small healing items that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Green" or "Support", after which follows the character's name.
-
-## <a style="color: rgba(175,100,237,255) !important;">**Technical - The Special and Quirky Class**</a><br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/technicalbig.png" /></br>
-</p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/todoroki_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/kaminari_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/monoma_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/mirio_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/nejire_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/armormight_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/aizawa_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/shigaraki_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/afo_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/dabi_technical.png" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/icons/toga_technical.png" />
-</p>
-
-Technical Characters focus on unusual or/and miscelaneous abilities, such as traps (Dabi), copying abilities (Himiko Toga, All For One and Neito Monoma), or other unique abilities like Mirio Togata's counter or Neito Monoma's metal form. Carrying characters with this role gives the whole party a reload boost that grows higher the more characters with this role are on the team. Characters with this role are often referred to by the community as "Purple" or "Tech", after which follows the character's name.<br>
-<br>
 # Pre-Lobby: Matchmaking and Readying Up
 After selecting the desired Battle Royale sub-gamemode (Unranked, Ranked, Solos, CPU Match...) and clicking "Battle!", your game will enter matchmaking, searching for allies to match you with. These teammates will always be real people, and if you've picked Ranked, then the game will *try* to pair you with people close in rank due to the Skill-Based Matchmaking System, though this isn't guaranteed. In Solos and Unranked this system does not exist, so you can get paired with anyone both on the ally and the enemy side.<br>
 <br>
@@ -367,7 +222,7 @@ One of the biggest differences between a noob and a standard player is how they 
 Jumping by itself isn't super special, as your jump height is often low, but some characters like Tsuyu Asui (Froppy) and All For One have higher than usual jumps, which can benefit them. However, jumping is much more useful when using beam attacks that don't lock you in place, like Yellow Deku's alpha, Red Deku's alpha, Red Bakugo's alpha, and overall every shooting skill that lets you move while using it. It's better to use these skills while jumping to the sides to make yourself harder to hit while still attacking.
 <p align="center">
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomajump.gif" width="400" />
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/afoshoot.gif" width="400" />
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/101Aim2-gif.gif" width="400" />
 </p>
 
 Rolling (Also called Dodging) is an incredibly valuable skill to master, and that will be explained more in-depth in its own section, but to put it simply, the act of rolling makes you invulnerable for a split second, which if timed correctly, can let you ignore the damage of enemy abilities or even their effects. For example, All For One's gamma skill allows him to warp everyone inside of its range to his position, but if you roll at the right moment, you can avoid being warped to his location.
@@ -388,7 +243,7 @@ Climbing is your way to get on top of high places when you don't have mobility s
     <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/main/gifs/monomashuffle.gif" width="400" />
 </p>
 
-# Gameplay: Useful Shortcuts You Must Know!
+# Gameplay: Useful Shortcuts and Tips to Win
 The game also features special shortcuts and wheels that can be really useful. For example, if you press the "Change Item" key (check your settings to know which button that is) you will access your item wheel, which lets you quickly drink whichever drink you wanna drink without checking the inventory (the Quick Item Bar might not always show the item you really wanna use, so this is useful for that too). Using the Place Marker button on one of these will let your teammates know that you ran out of that specific item, however this has a twist...<br>
 If your teammates use that on Small or Large recovery items, it does mean they ran out of them and need you to give them some if possible, HOWEVER, if this is done on Teamheals, it means that your teammate is in the process of drinking one, and is telling you to do your best to survive so you can be healed. If this is done on Team Enhancement Kits (the ones that level up your whole team), then it usually means that your teammate is asking you or the other teammate to drink it, since people sometimes forget.
 <p align="center">
@@ -406,3 +261,167 @@ If you use the Place Marker button while looking at an item, you will pin it for
 # Gameplay Conclusion
 Overall, whenever you start a match, make sure to stay close to your team, gather healing items, level your skills and fight using your brain. Don't try to fight a team alone, because those who just mindlessly charge at fights alone are prone to die, and that's not good!
 
+<hr style="height: 10px; background-color: white; border: none;">
+
+<style>
+    .guides-menu {
+        display: flex;
+        flex-direction: column;
+        margin: 20px auto 20px auto; 
+        justify-content: center;
+        max-width: 1000px;
+        gap: 15px;
+        padding: 20px 20px 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        background-color: #24262E;
+        border-radius: 12px;
+    } 
+    
+    .guides-menu-row {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    } 
+
+    .guide-icon {
+        flex: 0 0 auto;
+        width: 175px;
+        height: 175px;
+        box-sizing: border-box;
+    }
+
+    .guide-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; 
+    }
+
+    @media (max-width: 768px) {
+        .guide-icon {
+            max-width: 75px; 
+            max-height: 75px;
+        }
+        
+        .guides-menu-row {
+            gap: 5px; 
+        }
+
+        .guides-menu {
+            gap: 7px; 
+            padding: 10px 10px 20px;
+        }
+    }
+</style>
+
+<section class="guides-menu">
+    <h1 style="text-align: center;">
+        <a style="color: white !important;" width=100% href="https://ultrarumble.com/guide">
+            Don't forget to check our other guides!
+        </a>
+    </h1>
+    <h2>New Player Guide</h2>
+    <div class="guides-menu-row">
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/br-gameplay" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gameplay.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/gamemodes" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gamemodes.png" />
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/customization" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-customization.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/licensemissionnotebook" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-missionslicense.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/gacha" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gacha.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/agency" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-agency.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/ranking" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-ranked.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/miscellaneous" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png"/>
+            </a>
+        </div>
+    </div>
+    <h2>Character Guides</h2>
+    <div class="guides-menu-row">
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/unlocks" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-unlock.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/characters" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-guides.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/classes" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png"/>
+            </a>
+        </div>
+    </div>
+    <h2>General Player Guide</h2>
+    <div class="guides-menu-row">
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/general" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-general.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/teamwork" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-teamwork.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/poisonmist" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/escapism" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/wallrun" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-wallrun.png"/>
+            </a>
+        </div>
+    </div>
+    <h2>T.U.N.I.N.G. Guide</h2>
+    <div class="guides-menu-row">
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/tuning" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-tuning.png"/>
+            </a>
+        </div>
+        <div class="guide-icon">
+            <a href="https://ultrarumble.com/guide/normal-tuning" target="_blank">
+                <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
+            </a>
+        </div>
+    </div>
+</section>
