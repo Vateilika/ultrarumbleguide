@@ -157,7 +157,7 @@ Strategies surrounding the Poison Mist would make this bit too long, which is wh
 <br>
 <div class="guides-menu-row" align="center">
     <div class="guide-icon">
-        <a href="https://ultrarumble.com/guide/poisonmist" target="_blank">
+        <a href="https://ultrarumble.com/guide/poison-mist" target="_blank">
             <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
         </a>
     </div>
