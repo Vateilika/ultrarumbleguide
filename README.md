@@ -148,7 +148,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     </a>
   </div>    
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/poisonmist" >
+    <a href="https://ultrarumble.com/guide/poison-mist" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
     </a>
   </div>  
@@ -175,7 +175,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     </a>
   </div>
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/normaltuning" >
+    <a href="https://ultrarumble.com/guide/normal-tuning" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
     </a>
   </div>    
