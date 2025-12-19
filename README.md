@@ -65,7 +65,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
 </p>
 <div class="guides-menu-row">
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/gameplay" >
+    <a href="https://ultrarumble.com/guide/br-gameplay" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-gameplay.png"/>
     </a>
   </div>
@@ -100,7 +100,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     </a>
   </div>
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide?file=miscellaneous.md" >
+    <a href="https://ultrarumble.com/guide/miscellaneous" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/npg-miscellaneous.png">
     </a>
   </div>
@@ -124,7 +124,7 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     </a>
   </div>  
   <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/character/10911" >
+      <a href="https://ultrarumble.com/guide/classes" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/cg-classes.png"/>
     </a>
   </div> 
@@ -143,20 +143,43 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     </a>
   </div>
   <div class="guide-icon">
-    <a href="https://ultrarumble.com/guide/characters" >
+    <a href="https://ultrarumble.com/guide/teamwork" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-teamwork.png"/>
+    </a>
+  </div>    
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/poisonmist" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-poisonmist.png"/>
     </a>
   </div>  
   <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/character/10913" >
+      <a href="https://ultrarumble.com/guide/escapism" >
       <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-escapism.png"/>
     </a>
   </div> 
   <div class="guide-icon">
-      <a href="https://ultrarumble.com/guide/character/10914" >
-      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-gamesense.png"/>
+      <a href="https://ultrarumble.com/guide/wallrun" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/gp-wallrun.png"/>
     </a>
   </div>
+</div>
+
+<p align="center">
+    <img style="border-radius: 15px;" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/guide-tuning.jpg" width="100%" />
+</p>
+
+<div class="guides-menu-row">
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/tuning" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-tuning.png"/>
+    </a>
+  </div>
+  <div class="guide-icon">
+    <a href="https://ultrarumble.com/guide/normaltuning" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
+    </a>
+  </div>    
 </div>
 
 <hr class="my-5">
