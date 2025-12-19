@@ -7,6 +7,10 @@
 Welcome to the My Hero Ultra Rumble Ultimate Player Guide!
 This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in. When reading this guide, check each header's title to see if you're interested in that specific bit of the guide or if you'd rather scroll to the next.
 
+<p align="center">
+    <a href="https://ultrarumble.com/guide/credits" ><img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png" /></br>
+</p>
+
 <style>
     .guides-menu {
         display: flex;
@@ -182,34 +186,6 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
     </a>
   </div>    
 </div>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png" /></br>
-</p>
-
-<p align="center">
-<h2> Yurina Maekawa - Ultimate Guide Project Director, Graphic Artist (Buttons and non-character guides images), Lead Guidemaker (New Player Guide, Unlock and Class Character Guides, General Character Guide (minus Teamwork and Wallrun), Normal Tuning Distribution page), Contributor (Teamwork Guide), Draft-to-Site Adaptations </h2>
-## Lemon (Lemollion) - Graphic Artist (Character Guides' Banners and Fancy Headers) </h2>
-## Hydros - Guide Hosting </h2>
-
-<h2> no_life456780 - Lead Guidemaker (Full Bullet) </h2>
-<h2> Volco - Lead Guidemaker (Catastrophe) </h2>
-<h2> Danoula - Lead Guidemaker (Momo Yaoyorozu) </h2>
-<h2> ItsNotUrPotato - Lead Guidemaker (Mr. Compress) </h2>
-<h2> Bry - Guidemaker (Mr. Compress) </h2>
-<h2> Duch - Guidemaker (Mr. Compress) </h2>
-<h2> Gogorilla37 - Lead Guidemaker (Tamaki Amajiki) </h2>
-<h2> Zyos_Zett - Contributor (Tamaki Amajiki, Ibara Shiozaki) </h2>
-<h2> Fibiko - Lead Guidemaker (Ibara Shiozaki, Teamwork Guide, T.U.N.I.N.G. Guide), Draft-to-Site Adaptations </h2>
-<h2> RjBoss08 - Contributor (Ibara Shiozaki) </h2>
-<h2> Spectator - Contributor (Ibara Shiozaki </h2>
-<h2> HugePollution/The Doc - Contributor (Ibara Shiozaki) </h2> 
-<h2> Thorn Maiden - Contributor (Ibara Shiozaki) </h2>
-<h2> Gabis - Lead Guidemaker (Shoto Todoroki) </h2>
-<h2> Nugget - Contributor (Shoto Todoroki) </h2>
-
-pneulista 
-</p>
 
 <br/>
 
