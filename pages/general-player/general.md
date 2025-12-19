@@ -373,7 +373,7 @@ You gotta learn when to engage, when to not, where to be, and when to surrender 
             </a>
         </div>
         <div class="guide-icon">
-            <a href="https://ultrarumble.com/guide/normaltuning" target="_blank">
+            <a href="https://ultrarumble.com/guide/normal-tuning" target="_blank">
                 <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/t-specialtuning.png"/>
             </a>
         </div>
