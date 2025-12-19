@@ -8,7 +8,9 @@ Welcome to the My Hero Ultra Rumble Ultimate Player Guide!
 This is a macro-guide that contains smaller guides, such as the New Player Guide, the Character Guides, the General Player Guide, the TUNING Guide and the Teamwork Guide. You can click one of the buttons below to travel to the one you're interested in. When reading this guide, check each header's title to see if you're interested in that specific bit of the guide or if you'd rather scroll to the next.
 
 <p align="center">
-    <a href="https://ultrarumble.com/guide/credits" ><img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png" /></br>
+    <a href="https://ultrarumble.com/guide/credits" >
+      <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/images/title5.png"/>
+    </a>
 </p>
 
 <style>
