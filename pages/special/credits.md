@@ -1,23 +1,42 @@
-<p align="center">
-<h2> <a style="color: orange !important;">**???**</a> - Ultimate Guide Project Director, Graphic Artist (Buttons and non-character guides images), Lead Guidemaker (New Player Guide, Unlock and Class Character Guides, General Character Guide (minus Teamwork and Wallrun), Normal Tuning Distribution page), Contributor (Teamwork Guide), Draft-to-Site Adaptations </h2>
-<h2> <a style="color: orange !important;">**Lemon (Lemollion)**</a> - Graphic Artist (Character Guides' Banners and Fancy Headers)</h2>
-<h2> <a style="color: orange !important;">**Hydros**</a> - Guide Hosting </h2>
+<div class="credit-box">
+  <div class="name">Yurina</div>
+  <div class="role">Ultimate Guide Project Director, Graphic Artist (Buttons and non-character guides images), Lead Guidemaker (New Player Guide, Unlock and Class Character Guides, General Character Guide (minus Teamwork and Wallrun), Normal Tuning Distribution page), Contributor (Teamwork Guide), Draft-to-Site Adaptations</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <div class="name">Lemon (Lemollion)</div>
+  <div class="role">Graphic Artist (Character Guides' Banners and Fancy Headers)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <div class="name">Hydros</div>
+  <div class="role">Developer</div>
+  <div class="quote">I like Lady Nagant's feet.</div>
+</div>
 
-<h2> <a style="color: orange !important;">**no_life456780**</a> - Lead Guidemaker (Full Bullet) </h2>
-<h2> <a style="color: orange !important;">**Volco**</a> - Lead Guidemaker (Catastrophe) </h2>
-<h2> <a style="color: orange !important;">**Danoula**</a> - Lead Guidemaker (Momo Yaoyorozu) </h2>
-<h2> <a style="color: orange !important;">**ItsNotUrPotato**</a> - Lead Guidemaker (Mr. Compress) </h2>
-<h2> <a style="color: orange !important;">**Bry**</a> - Guidemaker (Mr. Compress) </h2>
-<h2> <a style="color: orange !important;">**Duch**</a> - Guidemaker (Mr. Compress) </h2>
-<h2> <a style="color: orange !important;">**Gogorilla37**</a> - Lead Guidemaker (Tamaki Amajiki) </h2>
-<h2> Zyos_Zett - Contributor (Tamaki Amajiki, Ibara Shiozaki) </h2>
-<h2> Fibiko - Lead Guidemaker (Ibara Shiozaki, Teamwork Guide, T.U.N.I.N.G. Guide), Draft-to-Site Adaptations </h2>
-<h2> RjBoss08 - Contributor (Ibara Shiozaki) </h2>
-<h2> Spectator - Contributor (Ibara Shiozaki </h2>
-<h2> HugePollution/The Doc - Contributor (Ibara Shiozaki) </h2> 
-<h2> Thorn Maiden - Contributor (Ibara Shiozaki) </h2>
-<h2> Gabis - Lead Guidemaker (Shoto Todoroki) </h2>
-<h2> Nugget - Contributor (Shoto Todoroki) </h2>
+<br>
+<br>
+<div class="credit-box">
+  <div class="name">no_life456780</div>
+  <div class="role">Lead Guidemaker (Full Bullet)</div>
+  <div class="quote">fix full bullet beta momentum</div>
+</div>
+<div class="credit-box">
+  <div class="name">Volco</div>
+  <div class="role">Lead Guidemaker (Catastrophe)</div>
+  <div class="quote">BRICK</div>
+</div>
+<div class="credit-box">
+  <div class="name">Danoula</div>
+  <div class="role">Lead Guidemaker (Momo Yaoyorozu)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+<div class="credit-box">
+  <div class="name">ItsNotUrPotato</div>
+  <div class="role">Lead Guidemaker (Mr. Compress)</div>
+  <div class="quote">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</div>
+</div>
+
 
 pneulista 
 </p>
