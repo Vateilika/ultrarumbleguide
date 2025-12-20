@@ -122,6 +122,10 @@ Enclosing is a type of "escape" that can either be safe or be your doom. Consist
 
 This type of escape is most commonly seen in both Shoto Todorokis, occassionally Cementoss, Momo, and in rare cases Strike Izuku Midoriya or Assault Ochaco Uraraka.
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/gifs/enclosing-gif.gif" width="400"/></br>
+</p>
+
 A variation of Enclosing can be performed by characters like Momo Yaoyorozu, in which they can fill a room with deadly abilities or traps which enemies can theoretically walk into, but will get heavily punished by doing so, and might deter wiser players from engaging.
 
 ## Kiting and Baiting
