@@ -22,7 +22,7 @@
   <div class="quote">aaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko2.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/fibiko.png" />
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Draft Adapter</div>
