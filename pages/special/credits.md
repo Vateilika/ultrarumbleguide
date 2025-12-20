@@ -26,7 +26,7 @@
   <div class="name">Fibiko</div>
   <div class="discord-tag">fibiko</div>
   <div class="role">Draft Adapter</div>
-  <div class="quote">aaaaaaaa</div>
+  <div class="quote">I agree with Hydros on this one</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
