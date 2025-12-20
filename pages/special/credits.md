@@ -1,5 +1,5 @@
 <div class="credit-box">
-  <img class="pfp" src="https://cdn.discordapp.com/attachments/1325721708036100258/1451659971576987718/pfp1.png?ex=6946fb33&is=6945a9b3&hm=66b9013c90fe3f66d9c21251d735745df3ee08d87b5b114d032e4be3780a37f0&" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
   <div class="name">Yurina</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Ultimate Guide Project Director</div>
@@ -42,7 +42,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
 
 
 <div class="credit-box">
-  <img class="pfp" src="https://cdn.discordapp.com/attachments/1325721708036100258/1451659971576987718/pfp1.png?ex=6946fb33&is=6945a9b3&hm=66b9013c90fe3f66d9c21251d735745df3ee08d87b5b114d032e4be3780a37f0&" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/yurinamaekawa.png" />
   <div class="name">Yurina</div>
   <div class="discord-tag">maekawayurina</div>
   <div class="role">Lead Guidemaker<br/>(New and General Guides)</div>
@@ -84,7 +84,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://media.discordapp.net/attachments/1448211275086561381/1452064004590534747/IMG_6518.png?ex=6948737c&is=694721fc&hm=9309653a3aacc7283e7bf3a5dfad7cac1e23203dd4db3eb70342c7781ca349fb&=&format=webp&quality=lossless&width=946&height=943" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/duch.png" />
   <div class="name">Duch</div>
   <div class="discord-tag">maddriot</div>
   <div class="role">Guidemaker<br/>(Mr. Compress)</div>
