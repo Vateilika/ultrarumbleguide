@@ -29,7 +29,7 @@
   <div class="quote">I agree with Hydros on this one</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/pneulysta.png" />
   <div class="name">Pneulysta</div>
   <div class="discord-tag">pneulysta</div>
   <div class="role">Draft Adapter</div>
