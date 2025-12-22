@@ -14,7 +14,7 @@
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/lemon.png" />
-  <div class="name">Lemon (Lemollion)</div>
+  <div class="name">Lemon<br/>(Lemollion)</div>
   <div class="discord-tag">lemollion</div>
   <div class="role">Graphic Artist</div>
   <div class="quote">Spinner clipart png</div>
@@ -139,7 +139,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/hugepollution.png" />
-  <div class="name">Huge Pollution (The Doc)</div>
+  <div class="name">Huge Pollution<br/>(The Doc)</div>
   <div class="discord-tag">the_doctr_</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
   <div class="quote">You want me to help in some kind of a big guide that INCLUDES Class A? Sounds like a horrible idea, but since I’m a main of one of the only three good first year hero students, someone has to step up! A shame really. Since they added the no good attention seekers who always get themselves into trouble all the time in this game, they’re all going to have to get guides adapted too. Meanwhile there’s only three members of Class B in the entire game… what are they even doing? Byking is no use at all, seriously.</div>
