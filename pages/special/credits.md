@@ -103,7 +103,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">*Empty Message*</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/nopfp.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/zyos_zett.png" />
   <div class="name">Zyos_Zett</div>
   <div class="discord-tag">zyos_zett</div>
   <div class="role">Contributor<br/>(Ibara Shiozaki)</div>
