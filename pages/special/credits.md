@@ -70,11 +70,11 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
+  <img class="pfp" src="ttps://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/itsnoturpotato.png" />
   <div class="name">ItsNotUrPotato</div>
   <div class="discord-tag">itsnoturpotato</div>
   <div class="role">Lead Guidemaker<br/>(Mr. Compress)</div>
-  <div class="quote">aaaaaaaaaaaaaaaaaa</div>
+  <div class="quote">If I fall in the forest, but there's no one around to see it happen, did I really cry on the ground for 5 minutes?</div>
 </div>
 <div class="credit-box">
   <img class="pfp" src="https://ultrarumble.com/assets/site.png" />
