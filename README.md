@@ -191,4 +191,6 @@ This is a macro-guide that contains smaller guides, such as the New Player Guide
   </div>    
 </div>
 
+<hr class="my-5">
+
 <sub><sup>Not affiliated with or endorsed by Bandai Namco Entertainment Inc. / Byking Inc.</sup></sub>
