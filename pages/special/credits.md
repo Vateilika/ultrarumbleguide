@@ -70,7 +70,7 @@ If a response is not provided within 24 hours then a “correctional officer” 
   <div class="quote">aaaaaaaaaaaaaaaaaa</div>
 </div>
 <div class="credit-box">
-  <img class="pfp" src="ttps://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/itsnoturpotato.png" />
+  <img class="pfp" src="https://raw.githubusercontent.com/HydrosPlays/ultrarumbleguide/refs/heads/main/pfp/itsnoturpotato.png" />
   <div class="name">ItsNotUrPotato</div>
   <div class="discord-tag">itsnoturpotato</div>
   <div class="role">Lead Guidemaker<br/>(Mr. Compress)</div>
