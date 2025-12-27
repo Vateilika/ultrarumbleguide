@@ -14,7 +14,7 @@ When playing a Ranked Match for the first time, you will be paired with people t
   
 - Total KOs Dealt: In this game, a KO is defined by which player DOWNs an enemy. If Player A does most of the damage to the enemy and Player B DOWNs the enemy by giving the final blow, the KO will go to Player B (so long as the DOWNd enemy gets KOd afterwards, whoever KOs the DOWNd enemy is irrelevant). So, this stat basically defines how many people were KOd after you DOWNed them. Each KO grants 125 pts, so 2 KOs give you 250, and 4 KOs give you 500. Do not worry too much about your ally giving the last hit and "stealing" your KO, because those who contributed to the kill will still get a "KO Assist".
   
-- KO Assists: If you've dealt damage to an enemy but it was your teammate who gave the final hit and DOWNd them, you won't get a KO, but you will get a "KO Assist". These assists give 125 pts, just like regular KOs, so don't worry if your teammate suddenly deals the final flow and "steals" your kill, because you will still get your 125 pts. If the last hit was delivered by an enemy team, you will not get the assist.
+- KO Assists: If you've dealt damage to an enemy but it was your teammate who gave the final hit and DOWNd them, you won't get a KO, but you will get a "KO Assist". These assists give 125 pts, just like regular KOs, so don't worry if your teammate suddenly deals the final blow and "steals" your kill, because you will still get your 125 pts. If the last hit was delivered by an enemy team, you will not get the assist.
   
 - Total Team KOs: The more people you and your teammates KO, the higher will be your point gain from this stat. For every KO, 25 pts will be added.
   
